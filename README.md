@@ -17,4 +17,9 @@ Install in `pack/*/opt/grb256` and add
 packadd grb256
 colorscheme grb256
 ```
+or
+```lua
+vim.cmd.packadd("grb256")
+vim.cmd.colorscheme("grb256")
+```
 to your configuration file.
