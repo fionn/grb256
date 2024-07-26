@@ -1,6 +1,6 @@
 # GRB256
 
-`grb256` is a Vim color scheme by Gary Bernhardt, based on `ir_black`, "the last Vim color scheme you'll ever need", by Todd Werth.
+`grb256` is a Vim color scheme by Gary Bernhardt, based on [`ir_black`](https://github.com/twerth/ir_black), "the last Vim color scheme you'll ever need", by Todd Werth.
 
 The file exists in [garybernhardt/dotfiles/.vim/colors/grb256.vim](https://github.com/garybernhardt/dotfiles/blob/main/.vim/colors/grb256.vim); this is a standalone version suitable to be packaged.
 
